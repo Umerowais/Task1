@@ -12,6 +12,7 @@ use Illuminate\Support\Facades\Auth;
 
 class AuthController extends Controller
 {
+  /////////////View here///////////////////
     public function signupform()
     {
         return view('admin.childpage.form');
