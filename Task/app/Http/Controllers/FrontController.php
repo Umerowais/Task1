@@ -24,7 +24,7 @@ class FrontController extends Controller
     {
         return view('front.pages.homee'); 
     }
-   ////////////functions////////////////////
+   ////////////Delete function ////////////////////
    
     public function dld($id)
     {
